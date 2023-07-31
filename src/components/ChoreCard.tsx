@@ -11,7 +11,7 @@ function ChoreCard({ chore, sx }: ChoreCardProps & CardProps) {
 	return (
 		<Card sx={sx}>
 			<CardContent>
-				<div>{ chore.name }</div>
+				<h2>{ chore.name }</h2>
 				<Button variant="contained">Done</Button>
 			</CardContent>
 		</Card>

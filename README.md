@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Purpose
+
+Just a little sandbox to play around in.
+It's been a while since I had to create an app from scratch and set up the environment, dependencies and test tools.
+
 ## Available Scripts
 
 In the project directory, you can run:
